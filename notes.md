@@ -11,9 +11,9 @@
   - here some quote to make your day brighter:
   - "[quotes]"
   - to make it more exiting, here are some food and drink combination for a day:
-    - breakfast: [food] & [drink]
-    - lunch: [food] & [drink]
-    - [yes] dinner: [food] & [drink]
-    - [no] maybe no dinner for tonight, have some early rest
+    - breakfast: [food] & [drink] x
+    - lunch: [food] & [drink] x
+    - [yes] dinner: [food] & [drink] x
+    - [no] maybe no dinner for tonight, have some early rest x
     - [holiday] and because its your holiday, [activity] and buy [num] [snack] to accompany you, have fun!
     - [working] good luck on your work
